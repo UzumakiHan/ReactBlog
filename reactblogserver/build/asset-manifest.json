@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6773c23d.chunk.css",
+    "main.js": "/static/js/main.446d3c6b.chunk.js",
+    "main.js.map": "/static/js/main.446d3c6b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5d3e690b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5d3e690b.js.map",
+    "static/css/2.f0b13721.chunk.css": "/static/css/2.f0b13721.chunk.css",
+    "static/js/2.4441a798.chunk.js": "/static/js/2.4441a798.chunk.js",
+    "static/js/2.4441a798.chunk.js.map": "/static/js/2.4441a798.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f0b13721.chunk.css.map": "/static/css/2.f0b13721.chunk.css.map",
+    "static/css/main.6773c23d.chunk.css.map": "/static/css/main.6773c23d.chunk.css.map",
+    "static/js/2.4441a798.chunk.js.LICENSE.txt": "/static/js/2.4441a798.chunk.js.LICENSE.txt",
+    "static/media/login.css": "/static/media/bg.becaf716.jpg",
+    "static/media/musicbg.fc8fa48a.jpg": "/static/media/musicbg.fc8fa48a.jpg",
+    "static/media/myblog.8db1b6e5.png": "/static/media/myblog.8db1b6e5.png",
+    "static/media/reactadmin.f5feb8b3.png": "/static/media/reactadmin.f5feb8b3.png",
+    "static/media/vublog.4ff2933e.png": "/static/media/vublog.4ff2933e.png",
+    "static/media/vueshop.b4b352fc.png": "/static/media/vueshop.b4b352fc.png",
+    "static/media/vueshopadmin.e563e757.png": "/static/media/vueshopadmin.e563e757.png",
+    "static/media/webModal.3664150d.png": "/static/media/webModal.3664150d.png",
+    "static/media/wechat.8e2c465b.png": "/static/media/wechat.8e2c465b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d3e690b.js",
+    "static/css/2.f0b13721.chunk.css",
+    "static/js/2.4441a798.chunk.js",
+    "static/css/main.6773c23d.chunk.css",
+    "static/js/main.446d3c6b.chunk.js"
+  ]
+}
